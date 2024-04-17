@@ -17,7 +17,6 @@ public class TrueFalse {
                     }
             }
         }
-    GuessNumber guessNumber = new GuessNumber();
     }
 
 
